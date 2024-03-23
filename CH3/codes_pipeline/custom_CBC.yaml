@@ -1,0 +1,7 @@
+train: "PATH TO /train"
+val: "PATH TO /valid"
+
+# number of classes
+nc: 3 # class names
+# class names
+names: ['body', 'head', 'headpiece']
