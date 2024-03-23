@@ -14,3 +14,7 @@ Holds the analysis scripts for calculating Kullback-Leibler divergence from the 
 
 ### Chapter 6
 Repository for the scrips to calculate personality components from the questionnaire and novel object test as well as the extraction of the automated behavioural frequencies measured.
+
+
+References
+Jocher, G., Chaurasia, A., & Qiu, J. (2023). YOLO by Ultralytics (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics
